@@ -1,33 +1,27 @@
-.jumbotron{
+.jumbotron {
   background-color: #e3f2fd;
   color: black;
   margin-top: 50px;
 }
-
-.footer{
+.footer {
   padding: 10px 10px 0px 10px;
   background-color: #e3f2fd;
   margin-bottom: 0px;
   margin-top: 10px;
 }
-
-.btn{
+.btn {
   width: 100%;
   border-radius: 5px;
 }
-
-.card{
+.card {
   padding: 0px;
 }
-
-.icon{
+.icon {
   padding-right: 10px;
 }
-
-.tab-content{
+.tab-content {
   padding-top: 10px;
 }
-
-.imagen{
+.imagen {
   height: 500px;
 }

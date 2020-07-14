@@ -1,0 +1,29 @@
+.jumbotron {
+  color: black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 0px;
+  background-color: #e3f2fd; }
+
+.footer {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding: 0px;
+  background-color: #e3f2fd;
+  padding: 10px 10px 0px 10px; }
+
+.btn {
+  width: 100%;
+  border-radius: 5px; }
+
+.card {
+  padding: 0px; }
+
+.icon {
+  padding-right: 10px; }
+
+.tab-content {
+  padding-top: 10px; }
+
+.imagen {
+  height: 500px; }
